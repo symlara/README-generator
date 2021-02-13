@@ -1,0 +1,23 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This app will be used for developer to create professional README files easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symlara/README-generator.git"
+  },
+  "author": "aaliyah symlar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/symlara/README-generator/issues"
+  },
+  "homepage": "https://github.com/symlara/README-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {}
+}
