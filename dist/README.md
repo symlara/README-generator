@@ -18,7 +18,7 @@
   
 
  ## Installation Instructions
- https://nodejs.org/en/ The Node.js site will give you instruction on how to get this asynchronous event-driven JavaScript runtime going on your machine. The documenation from site gives you all of the tools you will need to get started on this project.
+ https://nodejs.org/en/ The Node.js site will give you instruction on how to get this asynchronous event-driven JavaScript runtime going on your machine. The documenation from site gives you all of the tools you will need to get started on this project. You will also need the npm package inquirer to get this application running as well.
 
  
  ## Usage
@@ -32,12 +32,12 @@
  Aaliyah Symlar
 
  ## Tests
- yes
+ No tests
 
  ## Questions
- no
- &nbsp
-GitHub: [symlara](https://github.com/undefined)
+ Email me with any questions
 
-&nbsp
+GitHub: [symlara](https://github.com/symlara)
+
+
 If you have any questions please feel free to send me an email: asym14@gmail.com

@@ -58,8 +58,15 @@ const promptQuestions = () => {
         },
         {
             type: 'input',
-            name: 'usrname',
-            message: 'Enter your GitHub username here: '
+            name: 'username',
+            message: 'Enter your GitHub username here (Required)',
+            validate: userNameInput => {
+                if (userNameInput) {
+                return true;
+            }else {
+                console.log('Please enter your username!');
+                }
+            }   
         },
         {
             type: 'input',

@@ -85,7 +85,7 @@ function generateMarkdown(answers) {
  ## Questions
  ${answers.questions}
 
-GitHub: [${answers.usrname}](https://github.com/${answers.ursname})
+GitHub: [${answers.username}](https://github.com/${answers.username})
 
 
 If you have any questions please feel free to send me an email: ${answers.email}
