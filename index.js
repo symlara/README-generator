@@ -22,12 +22,12 @@ const promptQuestions = () => {
         },
         {
             type: 'input',
-            name: 'installation instructions',
+            name: 'installation',
             message: 'Explain the installation process:',
         },
         {
             type: 'input',
-            name: 'usage information',
+            name: 'usage',
             message: 'What is the project used for?'
         },
         {
@@ -88,7 +88,7 @@ async function init() {
         const answers = await promptQuestions();
         const generateContent = generateMarkdown(answers);
         // new REAME
-        await writeToFileAsync('./dist/README.md', generateContent);
+        await writeToFile('./dist/README.md', generateContent);
         console.log(' Success! You now have a new README.md file');
     } catch (err) {
         console.log(err);
