@@ -21,7 +21,7 @@ function renderLicenseSection(license) {
   <section class="license">
   <h2> MIT License</h2MIT License
 
-  Copyright (c) [year] [fullname]
+  Copyright (c) [2021] [Aaliyah Symlar]
   
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
