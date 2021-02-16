@@ -84,10 +84,10 @@ function generateMarkdown(answers) {
 
  ## Questions
  ${answers.questions}
- &nbsp
+
 GitHub: [${answers.usrname}](https://github.com/${answers.ursname})
 
-&nbsp
+
 If you have any questions please feel free to send me an email: ${answers.email}
 `;
 };
