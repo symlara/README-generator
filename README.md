@@ -2,7 +2,7 @@
 
   This video clip shows the functionality of this application: 
 
-<iframe src="https://drive.google.com/file/d/16_1hdrkF7zrdFKlPjO8QfvxQWs7NoF6K/preview" width="640" height="480"></iframe>
+<a href="https://drive.google.com/file/d/16_1hdrkF7zrdFKlPjO8QfvxQWs7NoF6K/view">READMEGenerator</a>
 
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
