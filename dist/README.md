@@ -5,15 +5,15 @@
   
   ## Table of Contents
   - [Description](#description)
-  - [License](#license)
   - [Installation Instructions](#installation-instructions)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
+  - [License](#license)
 
   ## Description
-  This app is used to generate a README file
+  This app is used to generate a README file that will help developers display an informative README in their repos
 
   
 
@@ -22,11 +22,7 @@
 
  
  ## Usage
- To generate a professional README file for developers
-
- ## License
- ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
- This app is covered by the MIT license.
+ This project can be used to generate a professional README file. Also created for Vanderbilt Coding BootCamp
 
  ## Contributing
  Aaliyah Symlar
@@ -38,6 +34,10 @@
  Email me with any questions
 
 GitHub: [symlara](https://github.com/symlara)
+
+## License
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+This app is covered by the MIT license.
 
 
 If you have any questions please feel free to send me an email: asym14@gmail.com
