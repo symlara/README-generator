@@ -13,7 +13,7 @@
   - [Questions](#questions)
 
   ## Description
-  This app is used to generate a professional README file 
+  This app is used to generate a README file
 
   
 
@@ -22,7 +22,7 @@
 
  
  ## Usage
- To create a README file
+ To generate a professional README file for developers
 
  ## License
  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -32,7 +32,7 @@
  Aaliyah Symlar
 
  ## Tests
- No test
+ No tests
 
  ## Questions
  Email me with any questions
