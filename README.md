@@ -1,7 +1,6 @@
-# README-generator
+# README-Generator
 
-  
-  <h1 align="center">README Generator </h1>
+  This video clip shows the functionality of this application: <a href="./assets/README Generator Walkthrough .mp4">README Generator</a>
 
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
