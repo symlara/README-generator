@@ -13,7 +13,7 @@
   - [Questions](#questions)
 
   ## Description
-  This README Generator will be an resource developers can use to create a professional README file
+  This app is used to generate a professional README file 
 
   
 
@@ -22,7 +22,7 @@
 
  
  ## Usage
- This project can be used as a to create a professional README file. Vanderbilt Coding BootCamp
+ To create a README file
 
  ## License
  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -32,7 +32,7 @@
  Aaliyah Symlar
 
  ## Tests
- No tests
+ No test
 
  ## Questions
  Email me with any questions
