@@ -55,8 +55,8 @@ function generateMarkdown(answers) {
   - [Description](#description)
   - [License](#license)
   - [Installation Instructions](#installation-instructions)
-  - [Usage](#usage-information)
-  - [Contributing](#contribution)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 

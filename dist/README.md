@@ -7,8 +7,8 @@
   - [Description](#description)
   - [License](#license)
   - [Installation Instructions](#installation-instructions)
-  - [Usage](#usage-information)
-  - [Contributing](#contribution)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 
@@ -22,7 +22,7 @@
 
  
  ## Usage
- This project can be used as a to create a professional README file
+ This project can be used as a to create a professional README file. Vanderbilt Coding BootCamp
 
  ## License
  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
