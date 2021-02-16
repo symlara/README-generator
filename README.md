@@ -1,6 +1,8 @@
 # README-Generator
 
-  This video clip shows the functionality of this application: <a href="./assets/README Generator Walkthrough .mp4">README Generator</a>
+  This video clip shows the functionality of this application: 
+
+<iframe src="https://drive.google.com/file/d/16_1hdrkF7zrdFKlPjO8QfvxQWs7NoF6K/preview" width="640" height="480"></iframe>
 
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
@@ -14,7 +16,7 @@
   - [License](#license)
 
   ## Description
-  This app is used to generate a README file that will help developers display an informative README in their repos
+  This app is used to generate a README file that will help developers display an informative README in their repos. This project was created using Node.js through the Terminal as well as the npm inquirer package. When a user answers each question in the terminal their inputs generate a README File in the dist folder of the repo.
 
   
 
