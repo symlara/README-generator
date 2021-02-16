@@ -48,6 +48,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(answers) {
   return `  
   <h1 align="center">${answers.READMEtitle} </h1>
+
+  ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
   
   ## Table of Contents
   - [Description](#description)
@@ -69,6 +71,10 @@ function generateMarkdown(answers) {
  
  ## Usage
  ${answers.usage}
+
+ ## License
+ ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+ This app is covered by the ${answers.license} license.
 
  ## Contributing
  ${answers.contribution}

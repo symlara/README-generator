@@ -1,5 +1,7 @@
   
   <h1 align="center">README Generator </h1>
+
+  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
   
   ## Table of Contents
   - [Description](#description)
@@ -11,22 +13,26 @@
   - [Questions](#questions)
 
   ## Description
-  This README Generator will be an resource developers can use to create a professional README f
+  This README Generator will be an resource developers can use to create a professional README file
 
   
 
  ## Installation Instructions
- https://nodejs.org/en/ The Node.js site will give you instruction on how to get this  asynchronous event-driven JavaScript runtime going on your machine. The documenation from site gives you all of the tools you will need to get started on this project.
+ https://nodejs.org/en/ The Node.js site will give you instruction on how to get this asynchronous event-driven JavaScript runtime going on your machine. The documenation from site gives you all of the tools you will need to get started on this project.
 
  
  ## Usage
- This project can be used to create a professional README file
+ This project can be used as a to create a professional README file
+
+ ## License
+ ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+ This app is covered by the MIT license.
 
  ## Contributing
- n/a
+ Aaliyah Symlar
 
  ## Tests
- no
+ yes
 
  ## Questions
  no

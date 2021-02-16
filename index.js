@@ -36,7 +36,7 @@ const promptQuestions = () => {
             message: 'Who, if any, are your contributors to this project?'
         },
         {
-            type: 'input',
+            type: 'list',
             name: 'license',
             message: 'Choose a license for this project: ',
             choices: [
