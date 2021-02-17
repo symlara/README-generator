@@ -30,6 +30,9 @@
 
 Sample README file generated with application:
 
+<img width="1299" alt="README_Generator" src="https://user-images.githubusercontent.com/40181569/108138474-a9feb200-7083-11eb-8356-759e5e0e4be9.png">
+
+<img width="1280" alt="README Generator 2" src="https://user-images.githubusercontent.com/40181569/108138551-cbf83480-7083-11eb-8d90-6b9f867a30d2.png">
 
 
  ## Contributing
