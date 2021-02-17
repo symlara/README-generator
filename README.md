@@ -1,10 +1,10 @@
-# README-Generator
+ # README-Generator
 
   This video clip shows the functionality of this application: 
 
 <a href="https://drive.google.com/file/d/16_1hdrkF7zrdFKlPjO8QfvxQWs7NoF6K/view">READMEGenerator</a>
 
-  ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+ 
   
   ## Table of Contents
   - [Description](#description)
