@@ -30,7 +30,7 @@
 
 Sample README file generated with application:
 
-![sample readme file](assets/images/README Generator 2.png)
+
 
  ## Contributing
  Aaliyah Symlar
