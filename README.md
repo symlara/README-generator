@@ -30,9 +30,6 @@
 
 Sample README file generated with application:
 
-![README_Generator](assets/images/README_Generator)
-
-![image of sample readme](assets/images/README Generator 2)
 
 
  ## Contributing
