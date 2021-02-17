@@ -6,8 +6,7 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const writeToFile = util.promisify(fs.writeFile);
 
 
-
-// TODO: Create an array of questions for user input
+// an array of questions for user input
 const promptQuestions = () => {
     return inquirer.prompt([
         {
@@ -89,7 +88,7 @@ const promptQuestions = () => {
 
 
 
-// TODO: Create a function to initialize app
+//  function to initialize app
 async function init() {
     try {
         const answers = await promptQuestions();

@@ -1,21 +1,21 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// a function that returns a license badge based on which license is passed in
+
 function renderLicenseBadge(license) {
   return `
   ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
   `
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+//  a function that returns the license link
+
 function renderLicenseLink(license) {
   return `
   (https://choosealicense.com/licenses/mit/#)
   `
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+//  a function that returns the license section of README
+
 function renderLicenseSection(license) {
   return `
   <section class="license">
@@ -44,7 +44,7 @@ function renderLicenseSection(license) {
   `
 }
 
-// TODO: Create a function to generate markdown for README
+// a function to generate markdown for README
 function generateMarkdown(answers) {
   return `  
   <h1 align="center">${answers.READMEtitle} </h1>
