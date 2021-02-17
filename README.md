@@ -48,7 +48,7 @@ GitHub: [symlara](https://github.com/symlara)
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-This app is covered by the MIT license.
+This app is covered by the <a href="https://github.com/symlara/README-generator/blob/main/LICENSE.txt">MIT license</a>.
 
 
 If you have any questions please feel free to send me an email: asym14@gmail.com
