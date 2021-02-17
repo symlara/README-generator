@@ -28,6 +28,13 @@
  ## Usage
  This project can be used to generate a professional README file. Also created for Vanderbilt Coding BootCamp
 
+Sample README file generated with application:
+
+![README_Generator](assets/images/README_Generator)
+
+![image of sample readme](assets/images/README Generator 2)
+
+
  ## Contributing
  Aaliyah Symlar
 
