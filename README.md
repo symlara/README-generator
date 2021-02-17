@@ -21,7 +21,8 @@
   
 
  ## Installation Instructions
- https://nodejs.org/en/ The Node.js site will give you instruction on how to get this asynchronous event-driven JavaScript runtime going on your machine. The documenation from site gives you all of the tools you will need to get started on this project. You will also need the npm package inquirer to get this application running as well.
+ * https://nodejs.org/en/ - The Node.js site will give you instruction on how to get this asynchronous event-driven JavaScript runtime going on your machine. The documenation from the site gives you all of the tools you will need to get started on this project. 
+ * You will also need the npm package inquirer to get this application running as well - https://www.npmjs.com
 
  
  ## Usage
